@@ -1,0 +1,2 @@
+print("hellow world ");
+#  this is use for the comment print() function is used to display information on the console or terminal. It is a built-in function that allows you to output text or other data to the screen. The print() function can take one or more arguments, which can be strings, numbers, variables, or other expressions.
